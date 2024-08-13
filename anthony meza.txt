@@ -1,0 +1,24 @@
+algoritmo
+1. inicio
+2. leer la base (b) y la altura (h) del rectángulo
+333. calcular él área (A) utilizando la formula A= b*h
+4. mostrar resultado (A)
+5. fin
+
+pseudocódigo
+
+algoritmo calculararearectangulo
+entrada: base (b), altura (h)
+salida: área (A)
+
+comentarios
+
+- la variable "b" representa la base del rectángulo
+- la variable "h" representa la altura del rectángulo
+- la variable "A" representa el área del rectángulo
+-la formula para calcular el área de un rectángulo es A= b*h
+
+declaraciones
+- base(b)= numero real
+-altura(h)= numero real
+-área(A)= numero real
