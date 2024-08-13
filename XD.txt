@@ -1,0 +1,133 @@
+Pseudocodigo 
+star
+//este es un programa que guarda la informacion personal del usuario
+
+declare string nombre 
+declare string ciudad
+declare string estado
+declare string direccion
+declare string especializacion universitaria 
+declare integer numero postal 
+declare integer numero de telfono
+
+display" cual es su nombre"
+input nombre 
+
+diplay"en que ciudad vive"
+input ciudad 
+
+display"en que estado vive"
+input estado 
+
+display"cual es su numero postal"
+input numero postal 
+
+display"cual es su numero de telefono"
+input numero de telefono 
+
+display"cual es su especializacion universitaria"
+input especilizacion universitaria 
+
+set direccion= "ciudad","estado","numero postal"
+
+end
+
+
+
+
+
+algoritmo_ganancia_de_la_venta
+star
+1 optener el valor de las ganancias totales
+2 multiplicar las ganancias totales por 0.23 y guardarlo en una variable que se llame beneficio
+end
+
+Pseudocodigo
+program_beneficio_total
+star
+//un programa que calcula el beneficio que tiene una empresa por sus ventas
+
+declare float valor_total
+declare float beneficio
+
+display"digite el valor total de las ventas"
+input valor_total
+
+set beneficio= valor_total * 0.23
+
+display"el beneficio generado por la empresa por sus ventas es de",beneficio
+end
+
+
+
+
+Pseudocodigo 
+proman_calculo de terreno
+incio
+// un programa que calcula el acre de un terreno 
+
+declare float total_de_pies 
+declare float acre
+
+display"digite la distacia de su terreno en pies cuadrados"
+input total_pies
+
+set acre= total_pies / 43.560
+
+display"los acres totales que hay en su terreno es de", acre
+
+fin
+
+
+
+
+algoritmo 
+inicio
+1 establecer las la velocidad del automovil en millas (60millas)
+2 multiplicar la constate velocidad por el primer tiempo 5 horas y guardarlo en una vaiable llamada disatncia  
+3 multiplicar la velocidad con el segundo tiempo de 8 horas y guardarlo en distancia 
+4 multiplicar la velocidad con el tercer tiempo de 12 horas y guardarlo en distancia 
+5 mostar distancia 
+fin 
+
+
+
+Pseudocodigo 
+Progran_distancia_automovil 
+star 
+//programa que calcula la distancia que recorre un automovil que va a una veloidad constante de 60 millas 
+
+declare constan integer velocidad= 60
+declare integer tiempo1
+declare integer tiempo2
+declare integer tiempo3
+declare integer distancia 
+
+input tiempo1= 5
+input tiempo2= 8 
+input tiempo3= 12
+
+set distancia1= velocidad * tiempo1 
+set distancia2= velocidad * tiempo2
+set distancia3= velocidad * tiempo3 
+
+display "la distancia recorrida por el automovil en el primer tiempo es de",distancia1
+display "la distancia recorrida por el automovil en el segundo tiempo es de",distancia2
+display "la distancia recorrida por el automovil en el tercer tiempo es de",distancia3
+end 
+
+
+
+
+algoritmo_impuesto_venta
+inicio 
+1 obtener valor de la compra
+2 calcular el impuesto estatal de la compra, multiplicando el valor de la compra por 0.04 
+3 calcular el impuesto condado de la compra, multiplicando el calor de la compra por 0.02
+4 mostrar en pantalla el valor de la compra el impuesto condado y el impuesto estatal
+5 calcular el impuesto total de la compra sumando el impuesto condado y el impiesto estatal, 0.02+0.04, y mostrarlo en la pantalla 
+6 calcular el total de la venta sumando el valor de la compra con el impuesto total
+
+
+psudocodigo
+ 
